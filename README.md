@@ -1,6 +1,8 @@
 # IMADPROJECT2025
-Std Name : Jean Baptiste Nolobe Mwana
+Std Name : Jean Baptiste Nolobe Mwana  /
+
 Std number: ST10492515
+
 HMAW - Higher Certificate in mobile application and Web development module :IMAD5111(Assignment)
 
 My repository link: https://github.com/Jeankaneki/IMADPROJECT2025
