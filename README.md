@@ -26,7 +26,22 @@ This appears designed as a simple but effective tool for helping users overcome 
 THE SCREENSHOTS OF THE APP CAN BE FOUND ABOVE IN THE MAIN BRANCH AS SCREENSHOTS.
 Nice project!
 
+![Screenshot_20250405_224145.png](Screenshot_20250405_224145.png)
+
+![Screenshot_20250411_094544.png](Screenshot_20250411_094544.png)
+
+![Screenshot_20250411_094830.png](Screenshot_20250411_094830.png)
+
+![Screenshot_20250411_095542.png](Screenshot_20250411_095542.png)
+
+
+![Screenshot_20250411_164833.png](Screenshot_20250411_164833.png)
 
 
 
+![Screenshot_20250411_165148.png](Screenshot_20250411_165148.png)
 
+![Screenshot_20250411_164917.png](Screenshot_20250411_164917.png)
+
+![Screenshot_20250411_165231.png](Screenshot_20250411_165231.png)
+![Screenshot_20250411_165249.png](Screenshot_20250411_165249.png)
