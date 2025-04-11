@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/aoboshi_one</item>
+        <item>@font/archivo_black</item>
+        <item>@font/audiowide</item>
+        <item>@font/autour_one</item>
+        <item>@font/creepster</item>
+        <item>@font/michroma</item>
+        <item>@font/righteous</item>
+        <item>@font/rock_salt</item>
+    </array>
+</resources>
