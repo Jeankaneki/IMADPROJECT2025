@@ -34,7 +34,7 @@ class MainActivity : AppCompatActivity() {
 
             //
             if (timeOfDay == "morning" || timeOfDay == "breakfast") {
-                mealSuggestions = "Smashed avocados and eggs"
+                mealSuggestions = "Smashed avocados with eggs"
                 mealOutput = R.drawable.smashedavocadosandeggs
             } else if (timeOfDay == "mid-morning" || timeOfDay == "mid morning") {
                 mealSuggestions = "Oranges, bananas and apples"
@@ -55,15 +55,16 @@ class MainActivity : AppCompatActivity() {
 
             val suggestOut = findViewById<TextView>(R.id.textView2)
             if (mealSuggestions != null) {
-                suggestOut.text = "Suggested meal: $mealSuggestions"
+                suggestOut.text = "Suggested meal of the day, try! some $mealSuggestions"
                 suggestOut.setTextColor(ContextCompat.getColor(this, android.R.color.holo_orange_light))
+                suggestOut.setBackgroundColor(ContextCompat.getColor(this, android.R.color.transparent))
                 if (mealOutput != 0) {
                     mealPicture.setImageResource(mealOutput)
                 } else {
                     mealPicture.setImageDrawable(null)
                 }
             } else {
-                suggestOut.text = "Oops! Valid options: morning, mid morning, afternoon, mid afternoon, evening, night"
+                suggestOut.text = "Oops! try these valid options: morning, mid morning, afternoon, mid afternoon, evening, night"
                 suggestOut.setTextColor(ContextCompat.getColor(this, android.R.color.holo_red_dark))
                 suggestOut.setBackgroundColor(ContextCompat.getColor(this, android.R.color.background_dark))
                 suggestBtn.setBackgroundColor(ContextCompat.getColor(this, android.R.color.holo_red_dark))
@@ -82,7 +83,7 @@ class MainActivity : AppCompatActivity() {
         resetBtn.setOnClickListener {
             inputTime.text.clear()
             val suggestionOutput = findViewById<TextView>(R.id.textView2)
-            suggestionOutput.text = "Hello again! Please enter a mealtime to get meal suggestions"
+            suggestionOutput.text = "Hello again! Please enter a time of day to get a meal suggestion"
             suggestionOutput.setTextColor(ContextCompat.getColor(this, android.R.color.white))
             suggestionOutput.setBackgroundColor(ContextCompat.getColor(this, android.R.color.transparent))
             mealPicture.setImageDrawable(null)
