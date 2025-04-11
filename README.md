@@ -21,7 +21,11 @@ Those struggling with meal planning./
 Individuals looking for quick food ideas...
 
 This appears designed as a simple but effective tool for helping users overcome "food decision fatigue" by providing  quick time-appropriate meal Suggestions.
+
+
+THE SCREENSHOTS OF THE APP CAN BE FOUND ABOVE IN THE MAIN BRANCH AS SCREENSHOTS.
 Nice project!
+
 
 
 
