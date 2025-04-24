@@ -1,5 +1,5 @@
 # IMADPROJECT2025
-Std Name : Jean Baptiste Nolobe Mwana  /
+Std Name : Jean Baptiste Mwana  /
 
 Std number: ST10492515.
 
@@ -23,7 +23,7 @@ Individuals looking for quick food ideas...
 This appears designed as a simple but effective tool for helping users overcome "food decision fatigue" by providing  quick time-appropriate meal Suggestions.
 
 
-THE SCREENSHOTS OF THE APP CAN BE FOUND ABOVE IN THE MAIN BRANCH AS SCREENSHOTS.
+Here are THE SCREENSHOTS OF THE APP.
 Nice project!
 
 ![Screenshot_20250405_224145.png](Screenshot_20250405_224145.png)
