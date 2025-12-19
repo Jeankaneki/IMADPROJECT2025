@@ -1,5 +1,5 @@
 # IMADPROJECT2025
-Std Name : Jean Baptiste Mwana  /
+Std Name : 
 
 Std number: ST10492515.
 
